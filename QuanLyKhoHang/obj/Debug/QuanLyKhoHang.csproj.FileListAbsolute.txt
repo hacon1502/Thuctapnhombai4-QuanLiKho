@@ -1,0 +1,74 @@
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.frmMain.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TrangChu.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangHoa.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuNhap.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuXuat.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPN.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPX.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NguoiDung.resources
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HuongDan.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPN.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPX.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.frmMain.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangHoa.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HuongDan.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NguoiDung.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuNhap.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuXuat.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TrangChu.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\System.Net.Http.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\System.Net.Http.xml
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\BLL.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DTO.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\DAL.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPN.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.ChiTietPX.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.frmMain.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangHoa.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HuongDan.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NguoiDung.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuNhap.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.PhieuXuat.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TrangChu.resources
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache

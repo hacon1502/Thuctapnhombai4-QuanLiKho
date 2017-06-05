@@ -1,0 +1,13 @@
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DTO\bin\Debug\DTO.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DTO\bin\Debug\DTO.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\bin\Debug\DTO.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\bin\Debug\DTO.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\obj\Debug\DTO.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\bin\Debug\DTO.dll.config
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\bin\Debug\System.Net.Http.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DTO\bin\Debug\System.Net.Http.xml

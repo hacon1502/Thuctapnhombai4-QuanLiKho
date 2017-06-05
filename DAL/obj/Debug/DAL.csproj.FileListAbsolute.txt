@@ -1,0 +1,25 @@
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\bin\Debug\DAL.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\bin\Debug\DAL.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\bin\Debug\DTO.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\bin\Debug\DTO.pdb
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.dll
+D:\Visual Studio 2015 Projects\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\DAL.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\DAL.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\DTO.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\DTO.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\obj\Debug\DAL.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\DAL.dll.config
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\QuanLyKhoHang\DAL\bin\Debug\System.Net.Http.xml
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\bin\Debug\DAL.dll.config
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\bin\Debug\DAL.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\bin\Debug\DAL.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\bin\Debug\DTO.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\bin\Debug\DTO.pdb
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\obj\Debug\DAL.dll
+C:\Users\hoangdinhhuy\Desktop\QuanLyKhoHang\DAL\obj\Debug\DAL.pdb
